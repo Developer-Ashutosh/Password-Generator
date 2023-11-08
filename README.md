@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Password Generator App](https://github.com/Developer-Ashutosh/Password-Generator)
-- Live Site URL: [Password Generator Solution]()
+- Live Site URL: [Password Generator Solution](https://developer-ashutosh.github.io/Password-Generator/)
 
 ## My process
 

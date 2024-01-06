@@ -133,6 +133,7 @@ section.fields {
 }
 
 #slider::-webkit-slider-thumb {
+    position: relative;
     -webkit-appearance: none;
     appearance: none;
     height: 1.2rem;
@@ -285,7 +286,7 @@ button:hover svg path {
 @media (width<=380px) {
     main {
         padding: 0;
-        width: 320px;
+        width: 305px;
     }
 
     .strength span {
